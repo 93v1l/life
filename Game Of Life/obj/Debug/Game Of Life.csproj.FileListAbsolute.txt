@@ -1,0 +1,43 @@
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe.config
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\bin\Debug\Game Of Life.pdb
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.MainForm.resources
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.Properties.Resources.resources
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.exe
+C:\Users\Alex\Desktop\211\Game Of Life\Game Of Life\obj\Debug\Game Of Life.pdb
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe.config
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.pdb
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.MainForm.resources
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.Properties.Resources.resources
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.exe
+C:\Users\Alex\Desktop\211\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.pdb
+G:\Практика\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe.config
+G:\Практика\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe
+G:\Практика\Проекты\Game Of Life\Game Of Life\bin\Debug\Game Of Life.pdb
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.AssemblyReference.cache
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.SuggestedBindingRedirects.cache
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.MainForm.resources
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.Properties.Resources.resources
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.GenerateResource.cache
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.CoreCompileInputs.cache
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.exe
+G:\Практика\Проекты\Game Of Life\Game Of Life\obj\Debug\Game Of Life.pdb
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe.config
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\bin\Debug\Game Of Life.exe
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\bin\Debug\Game Of Life.pdb
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.AssemblyReference.cache
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.MainForm.resources
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game_Of_Life.Properties.Resources.resources
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.GenerateResource.cache
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game Of Life.csproj.CoreCompileInputs.cache
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game Of Life.exe
+C:\Users\dicta\Desktop\практика\Game Of Life\Game Of Life\obj\Debug\Game Of Life.pdb
